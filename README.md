@@ -1,11 +1,9 @@
-# ⭐ My name is Roberto Luján.
+## ⭐ Hi there ! My name is Roberto Luján
 
 Programming is my passion !
 I am learning Full Stack Development in Coderhouse and I'm currently working as a freelance Frontend web developer in Conexión Circular.
 
-### Skills :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,tailwind)](#)
-
+### My skills :
 [![ReactJs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
 </br>
