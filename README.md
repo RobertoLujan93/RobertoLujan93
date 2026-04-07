@@ -2,7 +2,7 @@
 
 QA Automation Engineer.
 </br>
-Over 2 years of experience ensuring the quality and reliability of web applications through automated and manual testing.
+Over 3 years of experience ensuring the quality and reliability of web applications through automated and manual testing.
 
 ### My skills :
 
